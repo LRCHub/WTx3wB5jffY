@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "スイートスポット",
+  "base_artist": "Tokyo Incidents",
+  "createdAt": "2026-02-14T13:59:45.446620Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "スイートスポット",
+      "artist": "Tokyo Incidents",
+      "has_synced": true,
+      "path": "select/01_スイートスポット_Tokyo_Incidents.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "スイートスポット",
+      "artist": "Tokyo Jihen",
+      "has_synced": true,
+      "path": "select/02_スイートスポット_Tokyo_Jihen.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "スイートスポット",
+      "artist": "Yura Yura Teikoku",
+      "has_synced": false,
+      "path": "select/03_スイートスポット_Yura_Yura_Teikoku.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "スイートスポット",
+      "artist": "ゆらゆら帝国",
+      "has_synced": false,
+      "path": "select/04_スイートスポット_ゆらゆら帝国.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "スイートスポット (SWEET spot)",
+      "artist": "東京事変_Incidents Tokyo",
+      "has_synced": true,
+      "path": "select/05_スイートスポット_(SWEET_spot)_東京事変_Incidents_Tokyo.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sweet Spot [スイートスポット]",
+      "artist": "Tokyo Incidents",
+      "has_synced": true,
+      "path": "select/06_Sweet_Spot_[スイートスポット]_Tokyo_Incidents.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "スイートスポット",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_01_スイートスポット_東京事変.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "スイートスポット",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_02_スイートスポット_東京事変.txt"
+    }
+  ]
+}
